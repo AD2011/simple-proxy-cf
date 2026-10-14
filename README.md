@@ -16,7 +16,7 @@ Read the docs at https://docs.pstream.org/proxy/introduction
 > Turnstile integration only works properly with cloudflare workers as platform
 
 ### supported platforms:
- - cloudflare workers
+ - cloudflare workers {Recommended}
  - AWS lambda
  - nodejs
  - netlify edge functions
